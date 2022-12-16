@@ -127,9 +127,6 @@ class Show:
         y -- условно непрерывный аргумент (с малым приращением).
         y_points -- дискретные точки из y, которые особо интересны. Будут выделены на графике.
         """
-        Y = Functions.Bell(y, beta, c)
-        sns.lineplot(x=y, y=Y)    
-        plt.grid()
         Y = Functions.Bell(y, beta, c)        
         sns.lineplot(x=y, y=Y, color='blue')
 
