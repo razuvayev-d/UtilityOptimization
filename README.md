@@ -30,7 +30,7 @@ D. Razuvayev
 ## Реализация и визуализация методов оптимизации по полезности по пособию С.В. Микони
 1. [Код-демонстрация в jupyter-notebook](DEMO.ipynb)
 2. [Исходный код .py](UtilityOptimization.py)
-3. [Пример решения задачи](Desigion_example.pdf)
+3. [Пример решения задачи](decision_example.pdf)
 
 ### Список использованных источников (References)
 
